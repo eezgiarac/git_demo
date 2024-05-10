@@ -4,3 +4,9 @@
 -review iq
 -practice git
 -softskills
+
+
+-new to do list
+
+-next week finish java
+
