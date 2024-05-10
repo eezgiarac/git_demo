@@ -1,0 +1,6 @@
+-to do list
+
+-review java
+-review iq
+-practice git
+-softskills
